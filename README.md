@@ -1,4 +1,4 @@
-### Hi there, I'm [Farzan](farzanb49.github.io) 👋
+### Hi there, I'm [Farzan](https://www.farzanb49.github.io) 👋
 
 
 ### Currently
