@@ -1,7 +1,7 @@
 ### Hi there, I'm [farzanb49.github.io](Farzan) 👋
 
 
-#Currently
+# Currently
 
 - 🔭 Seeking summer 2022 software co-ops!
 - 🌱 Trying to do some freelance development and curate side projects
