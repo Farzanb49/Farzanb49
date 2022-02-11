@@ -3,7 +3,7 @@
 
 ### Currently
 
-- 🔭 Seeking summer 2022 software co-ops!
+- 🔭 Incoming SWE Intern at Questrade 
 - 🌱 Trying to do some freelance development and curate side projects
 - 🏫 Studying Computer Science @ University of Waterloo
 - ⚙️ Working on some cool things 
