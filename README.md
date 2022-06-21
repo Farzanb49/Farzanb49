@@ -3,7 +3,7 @@
 
 ### Currently
 
-- 🔭 Incoming SWE Intern at Questrade 
+- 🔭 SWE Intern at Questrade 
 - 🏫 Studying Computer Science @ University of Waterloo
 - ⚙️ Working on some cool things 
 - 📫 How to reach me: farzanishrak@gmail.com
