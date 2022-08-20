@@ -12,5 +12,6 @@
 - Full Stack Engineer Intern at Questrade - Full stack, cloud, and database engineering on the Core Systems team [North York, Summer 2022]
 - Software Engineer Intern at MyPalate - Full stack development at a beginning-stage startup [Remote, Summer/Fall 2020 (high school)]
 
-- 📫 How to reach me: farzanishrak@gmail.com
+
+📫 How to reach me: farzanishrak@gmail.com
 
