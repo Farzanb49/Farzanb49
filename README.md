@@ -4,7 +4,6 @@
 
 - 🏫 Studying Computer Science @ University of Waterloo
 - ⚙️ Working on some cool things 
-- Core Member @ WATonomous, Computer Vision Developer @ UW Aerial Robotics Club, Intramural Basketball
 
 ### Experience
 
