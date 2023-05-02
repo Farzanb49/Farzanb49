@@ -2,7 +2,7 @@
 
 ### Currently
 
-- 🏫 Studying Computer Science @ University of Waterloo
+- 🏫 Studying Computer Science and Combinatorics/Optimization @ University of Waterloo
 - ⚙️ Working on some cool things 
 
 ### Experience
