@@ -6,7 +6,8 @@
 - ⚙️ Working on some cool things
 
 ### Experience
-
+- Software Engineer Intern at Ripple - AI/ML and Data Platform [Toronto/San Francisco/New York/London UK, Fall 2024]
+- Software Engineer Intern at Tesla - Build Systems and Infrastructure empowering faster deployments, firmware builds, and OTA vehicle updates [Palo Alto, California, Summer 2024]
 - Software Engineer Intern at Rodan Energy Solutions - Full Stack and ML Engineering on Energy Markets Dashboard [Remote]
 - Software Engineer Intern at NCR - Backend development on the Channel Services Platform [Waterloo, Winter 2023]
 - WATonomous Core Member (student design team) - Autonomous software developement on the RADAR team.
